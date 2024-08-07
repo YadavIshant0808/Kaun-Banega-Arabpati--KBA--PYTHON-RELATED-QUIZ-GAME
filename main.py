@@ -123,7 +123,6 @@ for i in range(0, len(python)):
             money = 7000000000
     else:
         print("Wrong answer!")
-        money = 0
         break
 
 if reply == 0:
