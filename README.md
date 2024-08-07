@@ -85,11 +85,14 @@ python[0] = [
     '4. Rome',
     1
 ]
-# Install pip
-pip install colorama
+# Important Note
+While pasting the code in your editor before running it please check that you accidentally not made any extra indentation because a small or a single space can lead to not work the program properly. Even I after uploading the code and downloaded it and pasted it in my editor, unfortunately I have clicked space bar and running the code then the money is zero after winning all the match is showing 0.  Today I have tested it again it's working fine, I found it last time I have made the indentation error accidentally.
+So, be careful about this.
+
 # Feedback and Suggestions
 We value your feedback! If you have any suggestions for new features, questions, or improvements, or if you encounter any issues while using the program, please let us know. Your input will help us enhance the quiz experience.
 
 # Author
 Made by Ishant Yadav
-  with ![alt text](image.png) in India.
+   with ❤️ in 
+     India.
